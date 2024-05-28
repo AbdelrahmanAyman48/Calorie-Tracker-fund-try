@@ -4,7 +4,7 @@ Calorie Tracker is a responsive web application built using React and Vite, prov
 
 
 <!-- 🌟Live Website🌟: https://calorie-tracker-sigma.vercel.app/ -->
-
+<!-- 
 ## Screenshots
 
 ### Disktop
@@ -20,7 +20,7 @@ Calorie Tracker is a responsive web application built using React and Vite, prov
   <img style="width: 500px;  margin: 0 10px;" src="ScreenShots/Mobile-2.png" alt="pages">
 </div>
 
-
+-->
 ## Features
 - **Responsive Design**: Calorie Tracker is built with a mobile-first approach using React and Vite, ensuring seamless functionality across all devices, including smartphones, tablets, and desktops.
 - **Intuitive Interface**: The user interface is designed to be intuitive and user-friendly, allowing users to easily navigate through the app, add, delete, and reorder meals with ease.
